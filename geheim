@@ -1,1 +1,8 @@
-PLZZ
+ComplianceDatabaseFrontend
+This project was generated with [Node.js] version 12.13.0
+
+Development server
+Run npm run dev for a realtime dev server with nodemon . Navigate to http://localhost:5000/. The app will automatically reload if you change any of the source files.
+
+Install
+Run npm install to build and install the added libaries
